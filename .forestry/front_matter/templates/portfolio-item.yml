@@ -14,6 +14,8 @@ fields:
 - type: text
   name: type
   label: type
+  description: Can be "regular" or "featured"
+  default: regular
 - type: text
   name: description
   label: description
