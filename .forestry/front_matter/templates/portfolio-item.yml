@@ -24,4 +24,4 @@ fields:
   config:
     required: false
   label: External link
-  description: A link to the external article
+  description: A link to the external article. Or can be a direct link from "Media"
