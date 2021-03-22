@@ -1,12 +1,10 @@
 ---
-title: "Contact Me"
-subtitle: ""
-# meta description
-description: "This is meta description"
-draft: false
----
+title: Contact Me
+subtitle: ''
+description: This is meta description
 
-### For all enquiries
+---
+### For all inquiries
 
 Please contact me using this form.
 Alternatively message me on LinkedIn.
