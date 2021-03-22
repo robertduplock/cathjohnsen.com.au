@@ -19,6 +19,9 @@ fields:
 - type: text
   name: description
   label: description
-- type: file
-  name: external_link
-  label: external_link
+- name: external_link
+  type: text
+  config:
+    required: false
+  label: External link
+  description: A link to the external article
