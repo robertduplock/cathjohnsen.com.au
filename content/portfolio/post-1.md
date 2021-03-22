@@ -1,19 +1,12 @@
 ---
-title: "Reader’s Digest Magazine: O Christmas Tree"
-date: 2020-04-18T10:07:21+06:00
-# post image
-image: "images/blog/readers-digest-xmas.jpg"
-# post type (regular/featured)
-type: "featured"
-# meta description
-description: "The smell of a fresh Christmas tree evokes fond memories..."
+title: 'Reader’s Digest Magazine: O Christmas Tree'
+date: 2020-04-18T10:07:21.000+06:00
+image: images/blog/readers-digest-xmas.jpg
+type: featured
+description: The smell of a fresh Christmas tree evokes fond memories...
+external_link: "/images/granite-belt-christmas-farm-website-final.pdf"
 
-external_link: "https://www.cathjohnsen.com.au/wp-content/uploads/2021/02/Granite-Belt-Christmas-Farm-Website-Final.pdf"
-# post draft
-draft: false
 ---
-
-
 #### Heading example
 
 Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
