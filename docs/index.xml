@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Bigspring Hugo</title>
+    <link>http://examplesite.org/</link>
+    <description>Recent content on Bigspring Hugo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Sat, 20 Mar 2021 13:00:00 +0000</lastBuildDate><atom:link href="http://examplesite.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My test article 1</title>
+      <link>http://examplesite.org/portfolio/my-test-article-1/</link>
+      <pubDate>Sat, 20 Mar 2021 13:00:00 +0000</pubDate>
+      
+      <guid>http://examplesite.org/portfolio/my-test-article-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>http://examplesite.org/portfolio/post-4/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/portfolio/post-4/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Adversus is a web-based dialer and practical CRM solution</title>
+      <link>http://examplesite.org/portfolio/post-6/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/portfolio/post-6/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Pump-up the team morale and celebrate the excellence</title>
+      <link>http://examplesite.org/portfolio/post-2/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/portfolio/post-2/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Reader’s Digest Magazine: O Christmas Tree</title>
+      <link>http://examplesite.org/portfolio/post-1/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/portfolio/post-1/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>screens with built in Present and Dismiss animations.</title>
+      <link>http://examplesite.org/portfolio/post-3/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/portfolio/post-3/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+    <item>
+      <title>Test hello world!</title>
+      <link>http://examplesite.org/portfolio/post-5/</link>
+      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      
+      <guid>http://examplesite.org/portfolio/post-5/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules.</description>
+    </item>
+    
+  </channel>
+</rss>
