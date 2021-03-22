@@ -25,3 +25,5 @@ fields:
     required: false
   label: External link
   description: A link to the external article. Or can be a direct link from "Media"
+pages:
+- content/portfolio/my-test-article-1.md
