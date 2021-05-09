@@ -1,18 +1,18 @@
 ---
 title: 'Reader’s Digest Magazine: O Christmas Tree'
-date: 2020-04-18T10:07:21.000+06:00
+date: {}
 image: images/blog/readers-digest-xmas.jpg
 type: featured
 description: The smell of a fresh Christmas tree evokes fond memories.
-external_link: "/images/granite-belt-christmas-farm-website-final.pdf"
-
+external_link: /images/granite-belt-christmas-farm-website-final.pdf
+published: true
 ---
 #### Heading example
 
 Here is example of hedings. You can use this heading by following markdownify rules. For example: use `#` for heading 1 and use `######` for heading 6.
 
 # Heading 1 
-<br>
+This is a heading 1.
 
 ## Heading 2 
 
